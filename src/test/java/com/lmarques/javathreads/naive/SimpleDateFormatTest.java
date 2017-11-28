@@ -1,4 +1,4 @@
-package com.lmarques.javathreads.testing;
+package com.lmarques.javathreads.naive;
 
 import org.junit.Assert;
 import org.junit.Test;
